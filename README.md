@@ -1,0 +1,1 @@
+This software includes third party open source software component: `Ethereum Foundation`. It has its own license. Please see `.3rd_parth_licenses/Ethereum/LICENSE`. The source is from [tests](https://github.com/ethereum/tests) including `GeneralStateTests` and `VMTests` folders.
