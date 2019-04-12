@@ -246,7 +246,7 @@
             ],
             "Homestead" : [
                 {
-                    "hash" : "0xfa7506ff5573eda0d388803c869e9da859e3bdf1c2d50e73ed88a205ba5a88e7",
+                    "hash" : "fa7506ff5573eda0d388803c869e9da859e3bdf1c2d50e73ed88a205ba5a88e7",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -255,7 +255,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xfa7506ff5573eda0d388803c869e9da859e3bdf1c2d50e73ed88a205ba5a88e7",
+                    "hash" : "fa7506ff5573eda0d388803c869e9da859e3bdf1c2d50e73ed88a205ba5a88e7",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -264,7 +264,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x3595092ab8bfba6d282eca4488700987205f4ac8435e9270eb1a8a43a2ce33f6",
+                    "hash" : "3595092ab8bfba6d282eca4488700987205f4ac8435e9270eb1a8a43a2ce33f6",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 1,
@@ -273,7 +273,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x3595092ab8bfba6d282eca4488700987205f4ac8435e9270eb1a8a43a2ce33f6",
+                    "hash" : "3595092ab8bfba6d282eca4488700987205f4ac8435e9270eb1a8a43a2ce33f6",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 1,
@@ -288,15 +288,13 @@
                 "balance" : "0x00",
                 "code" : "",
                 "nonce" : "0x01",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0xe8d4a51000",
                 "code" : "",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             }
         },
         "transaction" : {
