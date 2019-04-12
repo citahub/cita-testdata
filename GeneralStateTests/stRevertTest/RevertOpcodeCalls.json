@@ -388,7 +388,7 @@
             ],
             "Homestead" : [
                 {
-                    "hash" : "0x3e387a4d238e9e47bf77a8abb42ba1da5524455da3b5d55c82af5b374160ed66",
+                    "hash" : "0x78e8072e89b8d2dc4a9bf2067e62cf12b994a4088d2177ac3bd7dc71dec94f61",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -397,7 +397,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x5ba59369c3734260c7e16d7cc78c7fd0a2d8e556ad657464ce57a085002d8ad3",
+                    "hash" : "0x1110f3ad533dc0ce52272bf9637479bb396c2e25b5fcc36995822e406d6112c9",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 1,
@@ -406,7 +406,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x25258a4d2b485e673dbe5347fb27d0b9b301dffb924f653d2758a90387bce269",
+                    "hash" : "0xd4e58edd16090b38d31984dced1acc8a32a0f39009c477dc1fb88d01ce185f87",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 0,
@@ -415,7 +415,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x5ba59369c3734260c7e16d7cc78c7fd0a2d8e556ad657464ce57a085002d8ad3",
+                    "hash" : "0x1110f3ad533dc0ce52272bf9637479bb396c2e25b5fcc36995822e406d6112c9",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 1,
@@ -424,7 +424,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xcd1011f02729458e217b176f5b9d563b394facc852f16f07aca209a571e10509",
+                    "hash" : "0x2438646b50cbc96e1bc73bcc18e9024565c80b93848c401d2fb02c73e2e41064",
                     "indexes" : {
                         "data" : 2,
                         "gas" : 0,
@@ -433,7 +433,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x5ba59369c3734260c7e16d7cc78c7fd0a2d8e556ad657464ce57a085002d8ad3",
+                    "hash" : "0x1110f3ad533dc0ce52272bf9637479bb396c2e25b5fcc36995822e406d6112c9",
                     "indexes" : {
                         "data" : 2,
                         "gas" : 1,
@@ -442,7 +442,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x41361539dceb75a218af6908870c22274c5e123271650fe6ee4bb9757c517bd8",
+                    "hash" : "0x2551a183fb389adc254aa655dc350d61ca295e9a85f5a99685f74f2d4a397db9",
                     "indexes" : {
                         "data" : 3,
                         "gas" : 0,
@@ -451,7 +451,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x5ba59369c3734260c7e16d7cc78c7fd0a2d8e556ad657464ce57a085002d8ad3",
+                    "hash" : "0x1110f3ad533dc0ce52272bf9637479bb396c2e25b5fcc36995822e406d6112c9",
                     "indexes" : {
                         "data" : 3,
                         "gas" : 1,
@@ -466,57 +466,49 @@
                 "balance" : "0x01",
                 "code" : "0x600060006000600060006000356203f7a0f1600a55",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0xe8d4a51000",
                 "code" : "",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xb0005374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x01",
                 "code" : "0x6000600060006000600073c94f5374fce5edbc8e2a8697c15331677e6ebf0b61c350f1600055600e600255",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xb1005374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x01",
                 "code" : "0x6000600060006000600073c94f5374fce5edbc8e2a8697c15331677e6ebf0b61c350f2600055600e600255",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xb2005374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x01",
                 "code" : "0x600060006000600073c94f5374fce5edbc8e2a8697c15331677e6ebf0b61c350f4600055600e600255",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xb3005374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x01",
                 "code" : "0x6000600060006000600073b3305374fce5edbc8e2a8697c15331677e6ebf0b620186a0f1600055600e600255",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xb3305374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x01",
                 "code" : "0x6000600060006000600073c94f5374fce5edbc8e2a8697c15331677e6ebf0b61c350f1600455600e600555",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xc94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x01",
                 "code" : "0x600c60015560016000fd600d600355",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             }
         },
         "transaction" : {

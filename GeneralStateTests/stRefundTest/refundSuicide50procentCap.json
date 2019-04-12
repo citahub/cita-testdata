@@ -36,15 +36,13 @@
                 "balance" : "0x989680",
                 "code" : "0x",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xaaae7baea6a6c7c4c2dfeb977efac326af552aaa" : {
                 "balance" : "0x0de0b6b3a7640000",
                 "code" : "0x73095e7baea6a6c7c4c2dfeb977efac326af552d87ff",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             }
         },
         "transaction" : {
@@ -137,7 +135,7 @@
                         "gas" : 0,
                         "value" : 0
                     },
-                    "hash" : "0x2e76f4e335d3b40d53ca4b19af004d23d0785fc694a6507b54b856a266b18d5b",
+                    "hash" : "0xa0b6f26ac5ec43f1dcd1da6536f78d9032eaed9aac5621e423c17966a1233b0a",
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 }
             ]
