@@ -462,7 +462,7 @@
             ],
             "Homestead" : [
                 {
-                    "hash" : "0x222799d2ad41990338860221d0d59567fcb0ac058b7b72d962708a84cbace1ad",
+                    "hash" : "0x413920dd8fe6d1e6d8cda02906af018d33cef731e2c0030c2c07dd4feceb1019",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -471,7 +471,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x222799d2ad41990338860221d0d59567fcb0ac058b7b72d962708a84cbace1ad",
+                    "hash" : "0x413920dd8fe6d1e6d8cda02906af018d33cef731e2c0030c2c07dd4feceb1019",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -480,7 +480,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xddb92fee989f8001d11b738a9fa413a51e507b2968b0a01412836a57532a0f04",
+                    "hash" : "0xc0e3af295b1751829108cd28d8de59fdd9d27f7a0511f20b47124eaace6ad207",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 1,
@@ -489,7 +489,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xbd3aa7e09a5b6a540f01c2c9136cbad11dbb94fca452ec5de9264ffc26d61aec",
+                    "hash" : "0xdba2124c936f9c013ed904db556b7cd3cf36ff1eefbbc31a68398cdbdb250efc",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 1,
@@ -498,7 +498,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x222799d2ad41990338860221d0d59567fcb0ac058b7b72d962708a84cbace1ad",
+                    "hash" : "0x413920dd8fe6d1e6d8cda02906af018d33cef731e2c0030c2c07dd4feceb1019",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 0,
@@ -507,7 +507,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x222799d2ad41990338860221d0d59567fcb0ac058b7b72d962708a84cbace1ad",
+                    "hash" : "0x413920dd8fe6d1e6d8cda02906af018d33cef731e2c0030c2c07dd4feceb1019",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 0,
@@ -516,7 +516,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xc0df71b65b1cca2a28025c9c81d3b3775f44d7378e192e51a9b15c3467a54d9a",
+                    "hash" : "0x413920dd8fe6d1e6d8cda02906af018d33cef731e2c0030c2c07dd4feceb1019",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 1,
@@ -525,7 +525,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xc0df71b65b1cca2a28025c9c81d3b3775f44d7378e192e51a9b15c3467a54d9a",
+                    "hash" : "0x413920dd8fe6d1e6d8cda02906af018d33cef731e2c0030c2c07dd4feceb1019",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 1,
@@ -540,22 +540,19 @@
                 "balance" : "0x05",
                 "code" : "0x60016000556000600060006000600073b000000000000000000000000000000000000000600035f1600155600c600455",
                 "nonce" : "0x36",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0xe8d4a51000",
                 "code" : "",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xb000000000000000000000000000000000000000" : {
                 "balance" : "0x00",
                 "code" : "0x6008600255600060006000f050600c600355",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             }
         },
         "transaction" : {

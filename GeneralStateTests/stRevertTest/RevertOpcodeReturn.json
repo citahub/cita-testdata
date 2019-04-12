@@ -678,7 +678,7 @@
             ],
             "Homestead" : [
                 {
-                    "hash" : "0x6742349996a02bf47f32fc264c3ded1a9a9e592f2507dcb99260f8be7b0df3c6",
+                    "hash" : "0xcd0e4c8b30b421494c76b82b04cc35e7f0d47e33914b86ae8b6074325e7671e6",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -687,7 +687,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x6742349996a02bf47f32fc264c3ded1a9a9e592f2507dcb99260f8be7b0df3c6",
+                    "hash" : "0xcd0e4c8b30b421494c76b82b04cc35e7f0d47e33914b86ae8b6074325e7671e6",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 1,
@@ -696,7 +696,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xedf5922303afcd96ccf31d627b28944ebb82e0769e78dc0848cbafda144446b6",
+                    "hash" : "0xd76491f4ff98b17eb709c399fbaef819dafeb851b014a0779fc004c8d50bd0da",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 0,
@@ -705,7 +705,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xedf5922303afcd96ccf31d627b28944ebb82e0769e78dc0848cbafda144446b6",
+                    "hash" : "0xd76491f4ff98b17eb709c399fbaef819dafeb851b014a0779fc004c8d50bd0da",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 1,
@@ -714,7 +714,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x9acf95cae315a5db988cfd5d6f77924044f9852e1b75b1763d7f67b7e45753b3",
+                    "hash" : "0xd76491f4ff98b17eb709c399fbaef819dafeb851b014a0779fc004c8d50bd0da",
                     "indexes" : {
                         "data" : 2,
                         "gas" : 0,
@@ -723,7 +723,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x11bd0a7dd947e26013b63c7f1dad8e16343c4eec8646222186a4f2cf0ac032bc",
+                    "hash" : "0xd76491f4ff98b17eb709c399fbaef819dafeb851b014a0779fc004c8d50bd0da",
                     "indexes" : {
                         "data" : 2,
                         "gas" : 1,
@@ -732,7 +732,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xedf5922303afcd96ccf31d627b28944ebb82e0769e78dc0848cbafda144446b6",
+                    "hash" : "0xd76491f4ff98b17eb709c399fbaef819dafeb851b014a0779fc004c8d50bd0da",
                     "indexes" : {
                         "data" : 3,
                         "gas" : 0,
@@ -741,7 +741,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xedf5922303afcd96ccf31d627b28944ebb82e0769e78dc0848cbafda144446b6",
+                    "hash" : "0xd76491f4ff98b17eb709c399fbaef819dafeb851b014a0779fc004c8d50bd0da",
                     "indexes" : {
                         "data" : 3,
                         "gas" : 1,
@@ -750,7 +750,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xedf5922303afcd96ccf31d627b28944ebb82e0769e78dc0848cbafda144446b6",
+                    "hash" : "0xd76491f4ff98b17eb709c399fbaef819dafeb851b014a0779fc004c8d50bd0da",
                     "indexes" : {
                         "data" : 4,
                         "gas" : 0,
@@ -759,7 +759,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xedf5922303afcd96ccf31d627b28944ebb82e0769e78dc0848cbafda144446b6",
+                    "hash" : "0xd76491f4ff98b17eb709c399fbaef819dafeb851b014a0779fc004c8d50bd0da",
                     "indexes" : {
                         "data" : 4,
                         "gas" : 1,
@@ -768,7 +768,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xedf5922303afcd96ccf31d627b28944ebb82e0769e78dc0848cbafda144446b6",
+                    "hash" : "0xd76491f4ff98b17eb709c399fbaef819dafeb851b014a0779fc004c8d50bd0da",
                     "indexes" : {
                         "data" : 5,
                         "gas" : 0,
@@ -777,7 +777,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0xedf5922303afcd96ccf31d627b28944ebb82e0769e78dc0848cbafda144446b6",
+                    "hash" : "0xd76491f4ff98b17eb709c399fbaef819dafeb851b014a0779fc004c8d50bd0da",
                     "indexes" : {
                         "data" : 5,
                         "gas" : 1,
@@ -792,57 +792,49 @@
                 "balance" : "0x00",
                 "code" : "0x60206000600060006000600035620249f0f1600155600051600255",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa100000000000000000000000000000000000000" : {
                 "balance" : "0x00",
                 "code" : "0x6c726576657274656420646174616000556d726576657274206d65737361676560005260206000fd",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa200000000000000000000000000000000000000" : {
                 "balance" : "0x00",
                 "code" : "0x6c726576657274656420646174616000556d726576657274206d65737361676560005260006000fd",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa300000000000000000000000000000000000000" : {
                 "balance" : "0x00",
                 "code" : "0x6c726576657274656420646174616000556d726576657274206d6573736167656000526e0fffffffffffffffffffffffffffff6000fd",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa400000000000000000000000000000000000000" : {
                 "balance" : "0x00",
                 "code" : "0x6c726576657274656420646174616000556d726576657274206d6573736167656000526000610100fd",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa500000000000000000000000000000000000000" : {
                 "balance" : "0x00",
                 "code" : "0x6c726576657274656420646174616000556d726576657274206d65737361676560005260006001fd",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa600000000000000000000000000000000000000" : {
                 "balance" : "0x00",
                 "code" : "0x6c726576657274656420646174616000556d726576657274206d65737361676560005260006e0ffffffffffffffffffffffffffffffd",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0xe8d4a51000",
                 "code" : "",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             }
         },
         "transaction" : {

@@ -84,7 +84,7 @@
             ],
             "Homestead" : [
                 {
-                    "hash" : "0x5d5409a4d9f8d1b01e0c8ad0b0f230275e26dc45ea0414f0a01375f6697c1b30",
+                    "hash" : "0xf5acc58e28b64372e40e7e2db9e4c4ca0b96b68166fdc8469414e2ba838eaa0d",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -99,8 +99,7 @@
                 "balance" : "0x0190",
                 "code" : "",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             }
         },
         "transaction" : {
