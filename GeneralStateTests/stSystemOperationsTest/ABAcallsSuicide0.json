@@ -21,22 +21,19 @@
                 "balance" : "0x0de0b6b3a7640000",
                 "code" : "0x6000600060006000601873945304eb96065b2a98b57a48a06ae28d285a71b5620186a0f1585573945304eb96065b2a98b57a48a06ae28d285a71b5ff",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0x945304eb96065b2a98b57a48a06ae28d285a71b5" : {
                 "balance" : "0x17",
                 "code" : "0x6000600060006000601773095e7baea6a6c7c4c2dfeb977efac326af552d8761c350f16001015855",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x0de0b6b3a7640000",
                 "code" : "0x",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             }
         },
         "transaction" : {
@@ -128,7 +125,7 @@
                         "gas" : 0,
                         "value" : 0
                     },
-                    "hash" : "0x6b0588ab878e51a66fe7b82d84b908718863d566750ceeb33970c29ed40cacab",
+                    "hash" : "0xf57200867e0ddfb750c85639044972cab347ae1a559400e0410c7fc323cc5c89",
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 }
             ]
