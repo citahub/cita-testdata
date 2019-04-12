@@ -21,15 +21,13 @@
                 "balance" : "0x5af3107a4000",
                 "code" : "0x",
                 "nonce" : "0x00",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x0de0b6b3a75ef08f",
                 "code" : "0x",
                 "nonce" : "0x01",
-                "storage" : {
-                }
+                "storage" : {}
             },
             "0xec0e71ad0a90ffe1909d27dac207f7680abba42d" : {
                 "balance" : "0x64",
@@ -119,7 +117,7 @@
                         "gas" : 0,
                         "value" : 0
                     },
-                    "hash" : "0x4b7e636d5c533eaf803b61cb48b5b2ee5e3bf8e1b5f78cb4a79b57fe6c51adbf",
+                    "hash" : "4fc50bdfb67651383330c29e215953383e7065483a909db2b9bd4b13b09afd2f",
                     "logs" : "0x75ba4b4381e424d2b0bdf18c9528c72a5205158ad035a865f140e555fa0ffce2"
                 }
             ]
