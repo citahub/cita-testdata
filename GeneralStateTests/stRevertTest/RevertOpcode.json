@@ -246,7 +246,7 @@
             ],
             "Homestead" : [
                 {
-                    "hash" : "0x299e173f3b37ebb90f4390583926658bb2a000d031b2b1ed2a248e5a8a47f4d7",
+                    "hash" : "0x94cc837a7eecd810063cc425e84e9467e74134c9a516d4df91f71f201fe77676",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -255,7 +255,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x299e173f3b37ebb90f4390583926658bb2a000d031b2b1ed2a248e5a8a47f4d7",
+                    "hash" : "0x94cc837a7eecd810063cc425e84e9467e74134c9a516d4df91f71f201fe77676",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
