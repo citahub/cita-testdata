@@ -163,57 +163,6 @@
       ]
     },
     {
-      "title": "getTransactionReceipt with transaction hash and return errorMessage(Out of quota.)",
-      "request": {
-        "method": "getTransactionReceipt",
-        "params": [
-          "0x2d3f3a3bab98e76139374501792e0bbee6e0b1b877bd8d3856153ec7fb0065ea"
-        ]
-      },
-      "expectedResponse": {
-        "result": {
-          "blockHash": "0xaa5d2b3ef948dfb989f2210840c061a5a47112b660fd9cf2a671ffadd51242d1",
-          "blockNumber": "0x8",
-          "contractAddress": null,
-          "cumulativeQuotaUsed": "0x40000001",
-          "errorMessage": "Out of quota.",
-          "quotaUsed": "0x40000001",
-          "logs": [
-          ],
-          "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-          "root": null,
-          "transactionHash": "0x2d3f3a3bab98e76139374501792e0bbee6e0b1b877bd8d3856153ec7fb0065ea",
-          "transactionIndex": "0x0"
-        }
-      },
-      "asserts": [
-        {
-          "description": "getTransactionReceipt result.transactionHash should be equal",
-          "program": ".receivedResponse.result.transactionHash == .expectedResponse.result.transactionHash"
-        },
-        {
-          "description": "getTransactionReceipt result.contractAddress should be equal",
-          "program": ".receivedResponse.result.contractAddress == .expectedResponse.result.contractAddress"
-        },
-        {
-          "description": "getTransactionReceipt result.logsBloom should be equal",
-          "program": ".receivedResponse.result.logsBloom == .expectedResponse.result.logsBloom"
-        },
-        {
-          "description": "getTransactionReceipt result.errorMessage should be equal",
-          "program": ".receivedResponse.result.errorMessage == .expectedResponse.result.errorMessage"
-        },
-        {
-          "description": "getTransactionReceipt result.logs should be equal",
-          "program": ".receivedResponse.result.logs == .expectedResponse.result.logs"
-        },
-        {
-          "description": "getTransactionReceipt result.quotaUsed should be equal",
-          "program": ".receivedResponse.result.quotaUsed == .expectedResponse.result.quotaUsed"
-        }
-      ]
-    },
-    {
       "title": "getTransactionReceipt with transaction hash and return EVM Error.",
       "request": {
         "method": "getTransactionReceipt",
